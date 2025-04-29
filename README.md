@@ -1,11 +1,4 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
-
-**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
-
-**博客地址：
-[https://blog.csdn.net/2303_76227485/article/details/131959107](https://blog.csdn.net/2303_76227485/article/details/131959107)**
 
 **视频演示：
 [https://www.bilibili.com/video/BV1yc411w79s/](https://www.bilibili.com/video/BV1yc411w79s/)**
